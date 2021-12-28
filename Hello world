@@ -1,0 +1,16 @@
+//coding with yashdholu
+
+#include<stdio.h>
+#include<conio.h>
+int main () {
+
+    clrscr() ;
+
+    printf("hello word") ;
+
+    getch() ;
+    return 0;
+
+
+
+}
